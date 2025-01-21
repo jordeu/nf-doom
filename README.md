@@ -3,7 +3,7 @@
 A PoC to run Doom using Nextflow
 
 ```
-nextflow -Djava.awt.headless=false run doom
+nextflow run doom
 ```
 
 > [!NOTE]
